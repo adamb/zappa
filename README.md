@@ -2,6 +2,17 @@
 
 The idea here is to create fun pages that are based on Frank Zappa songs.
 
+To run the code, just run
+
+`% node generateImages.js`
+
+It is a little fragile. If it hits the image limit it will wait for a minute.  If it hits the content
+filtering, it will also wait and retry.
+
+These retries never stop, so it might get stuck.
+
+
+
 I started with the lyrics from Stinkfoot.  This song has always elicited strong images in 
 my imagination.  Here's what Dalle came up with for the first few verses.
 
