@@ -11,7 +11,11 @@ filtering, it will also wait and retry.
 
 These retries never stop, so it might get stuck.
 
+You can add your own lyrics by just changing the lyrics array. 
 
+The API key is taken from your environment, so you'll have to set that.
+
+<br>
 
 I started with the lyrics from Stinkfoot.  This song has always elicited strong images in 
 my imagination.  Here's what Dalle came up with for the first few verses.
