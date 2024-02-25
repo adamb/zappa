@@ -2,11 +2,62 @@
 
 The idea here is to create fun pages that are based on Frank Zappa songs.
 
-![Image 0](./image0.png)
-![Image 1](./image1.png)
-![Image 2](./image2.png)
-![Image 3](./image3.png)
-![Image 4](./image4.png)
+I started with the lyrics from Stinkfoot.  This song has always elicited strong images in 
+my imagination.  Here's what Dalle came up with for the first few verses.
+
+# Stinkfoot by Frank Zappa
+
+<img src="./image0.png" alt="Image 0" width="200"/>
+<p>In the dark, Where all the fevers grow</p>
+
+<img src="./image1.png" alt="Image 1" width="200"/>
+<p>  Under the water, Where the shark bubbles blow
+</p>
+
+<img src="./image2.png" alt="Image 2" width="200"/> 
+<p>In the mornin', By your radio
+</p>
+
+<img src="./image3.png" alt="Image 3" width="200"/>
+<p>Do the walls close in to suffocate ya
+</p>
+
+<img src="./image4.png" alt="Image 4" width="200"/>
+<p>You ain't got no friends..., An' all the others they hate ya?
+</p>
+
+<img src="./image5.png" alt="Image 4" width="200"/>
+<p>There's the life you been leadin' gotta go
+</p>
+
+<img src="./image6.png" alt="Image 4" width="200"/>
+<p>Well, lemme straighten you out, About a place I know...
+</p>
+
+<img src="./image7.png" alt="Image 4" width="200"/>
+<p>Get your shoes 'n socks on people because it's right aroun' the corner!
+</p>
+
+<img src="./image8.png" alt="Image 4" width="200"/>
+<p> This must be the disease for you
+</p>
+
+<img src="./image9.png" alt="Image 4" width="200"/>
+<p>Now scientists call this disease Bromhidrosis
+</p>
+
+<img src="./image10.png" alt="Image 4" width="200"/>
+<p> But us regular folks who might wear tennis shoe
+</p>
+
+<img src="./image11.png" alt="Image 4" width="200"/>
+<p> Or an occasional python boot
+</p>
+
+<img src="./image12.png" alt="Image 4" width="200"/>
+<p>Know this exquisite little inconvenience by the name of stinkfoot
+</p>
+
 
 # Logs...
 
@@ -28,3 +79,7 @@ This triggered a "content violation".
 How do we get around this?
 
 Just add some retry code.
+
+# 2024-02-25 16:32:58
+
+Should make the image names from the lyrics...
