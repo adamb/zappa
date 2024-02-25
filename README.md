@@ -20,6 +20,9 @@ The API key is taken from your environment, so you'll have to set that.
 I started with the lyrics from Stinkfoot.  This song has always elicited strong images in 
 my imagination.  Here's what Dalle came up with for the first few verses.
 
+# [Stink-Ffoot by Frank Zappa](https://open.spotify.com/track/5nV609B7jqDuKEupcerPTK)
+
+
 # Stinkfoot by Frank Zappa
 
 <img src="./image0.png" alt="Image 0" width="200"/>
