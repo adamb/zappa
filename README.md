@@ -14,3 +14,12 @@ https://platform.openai.com/docs/api-reference/images/create?lang=node.js
 
 Hit the rate limit.  It's 5 per minute...
 
+# 2024-02-25 15:32:17
+
+  "Do the walls close in to suffocate ya",
+This triggered a "content violation".
+
+How do we get around this?
+
+
+
