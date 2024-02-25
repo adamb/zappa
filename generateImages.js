@@ -23,7 +23,7 @@ async function generateImage(text, index) {
       console.log(`Image${index}.png saved.`);
       return `./image${index}.png`;
     } catch (error) {
-      if (error.message.includes('quota') || error.message.includes('content')) { // replace with actual error message or code
+      if (error.message.includes('Rate') || error.message.includes('content')) { // replace with actual error message or code
         console.error("Quota exceeded, waiting for a minute before retry...");
         await new Promise(resolve => setTimeout(resolve, 60*1000));
       } else {
@@ -64,14 +64,14 @@ async function processLyrics(lyrics) {
 
 // Example lyrics array (limit 5)
 const lyrics = [
-  // "In the dark, Where all the fevers grow",
-  // "Under the water, Where the shark bubbles blow",
-  // "In the mornin', By your radio",
-  // "Do the walls close in to suffocate ya",
-  // "You ain't got no friends..., An' all the others they hate ya?",
-  // "There's the life you been leadin' gotta go",
-  // "Well, lemme straighten you out, About a place I know...",
-  // "Get your shoes 'n socks on people because it's right aroun' the corner!",
+  "In the dark, Where all the fevers grow",
+  "Under the water, Where the shark bubbles blow",
+  "In the mornin', By your radio",
+  "Do the walls close in to suffocate ya",
+  "You ain't got no friends..., An' all the others they hate ya?",
+  "There's the life you been leadin' gotta go",
+  "Well, lemme straighten you out, About a place I know...",
+  "Get your shoes 'n socks on people because it's right aroun' the corner!",
   //Add more lines as needed
   "This must be the disease for you",
   "Now scientists call this disease Bromhidrosis",

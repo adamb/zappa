@@ -2,6 +2,12 @@
 
 The idea here is to create fun pages that are based on Frank Zappa songs.
 
+
+
+# Logs...
+
+
+
 # getting setup
 
 npm install openai axios fs-extra
@@ -22,4 +28,6 @@ This triggered a "content violation".
 How do we get around this?
 
 
+
+Just add some retry code.  
 
